@@ -1,0 +1,15 @@
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\bin\Debug\net6.0\Application.deps.json
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\bin\Debug\net6.0\Application.dll
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\bin\Debug\net6.0\Application.pdb
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\bin\Debug\net6.0\Domain.dll
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\bin\Debug\net6.0\Domain.pdb
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\Application.dll
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\refint\Application.dll
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\Application.pdb
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Application\obj\Debug\net6.0\ref\Application.dll

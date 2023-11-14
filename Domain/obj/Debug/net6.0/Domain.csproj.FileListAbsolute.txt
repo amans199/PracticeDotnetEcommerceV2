@@ -1,0 +1,14 @@
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\bin\Debug\net6.0\Domain.dll
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\bin\Debug\net6.0\Domain.pdb
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\Domain.dll
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\Domain.pdb
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\study-projects\2023\PracticeDotnetEcommerceV2\Domain\obj\Debug\net6.0\ref\Domain.dll
