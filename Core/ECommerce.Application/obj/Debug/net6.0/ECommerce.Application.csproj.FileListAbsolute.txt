@@ -1,0 +1,15 @@
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Application.deps.json
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Application.dll
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Application.pdb
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Domain.dll
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\bin\Debug\net6.0\ECommerce.Domain.pdb
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.csproj.AssemblyReference.cache
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.AssemblyInfoInputs.cache
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.AssemblyInfo.cs
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.csproj.CopyComplete
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.dll
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\refint\ECommerce.Application.dll
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\ECommerce.Application.pdb
+C:\study-projects\2023\PracticeDotnetEcommerce\Core\ECommerce.Application\obj\Debug\net6.0\ref\ECommerce.Application.dll
